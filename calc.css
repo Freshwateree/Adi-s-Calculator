@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&family=Ubuntu&display=swap');
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    top: 20px;
+}
+.pops{
+    font-family: 'Merriweather', serif;
+    color: #F9F2ED;
+}
+
+body{
+    text-align: center;
+    background-color: #FF74B1;
+}
+
+.calci{
+    width: 500px;
+    padding: auto;
+    background-color: black;
+    color: #FFEA20;
+    margin: auto;
+    padding: 23px;
+    border-radius: 23px;
+}
+
+.container{
+    margin: auto;
+}
+
+button{
+    height: 40px;
+    width: 10%;
+    border: 2px solid  gray;
+    border-radius: 5px;
+    size: 100px;
+    cursor: pointer;
+    margin: 2.5px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #FFEA20;
+}
+
+button:hover{
+    background-color: #62CDFF;
+}
+
+button:active{
+    background-color: #62CDFF;
+}
+
+.calculator{
+    padding-top: 100px;
+    height: 100px;
+}
+
+.inp{
+    margin: 20px;
+    height: 50px;
+    width: 44%;
+    border-radius: 15px solid white;
+}
